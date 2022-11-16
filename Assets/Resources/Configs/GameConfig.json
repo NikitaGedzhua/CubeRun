@@ -1,0 +1,12 @@
+{
+  "CoinValue":1,
+  "TileSpeed":10.0,
+  "BoostSpeed":20.0,
+  "DistanceSpeed":22.0,
+  "BoostDistance":44.0,
+  "BoostTime":5.0,
+  "DoubleClickTime":0.2,
+  "SwipeDirectionThreshold":0.9,
+  "SwipeMinDistance":0.2,
+  "SwipeMaxTime":1
+}

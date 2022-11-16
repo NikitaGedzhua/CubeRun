@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 177a29ec2548d8e4394a5bc664bede0f, type: 3}
+  m_Name: GameSettingsInstaller
+  m_EditorClassIdentifier: 
+  gameConfig:
+    CoinValue: 1
+    TileSpeed: 10
+    BoostSpeed: 20
+    DistanceSpeed: 22
+    BoostDistance: 44
+    BoostTime: 5
+    DoubleClickTime: 0.2
+  roadObjConfig:
+    StartTilesCount: 6
+    TilesSpawnPos: 0
+    DistanceBetweenTiles: 50
+    TilesDeadZone: -50
+    StartObstaclesCount: 7
+    ObstaclesSpawnPos: 20
+    DistanceBetweenObstacles: 15
+    ObstaclesDeadZone: -10
+    _leftPosLimitObst: -3
+    _rightPosLimitObst: 3
+    StartCoinsCount: 6
+    CoinsSpawnPos: 10
+    DistanceBetweenCoins: 10
+    CoinsDeadZone: -5
+    _leftPosLimitCoin: -3
+    _rightPosLimitCoin: 3
+  playerConfig:
+    SidewaysSpeed: 20
+    Positions:
+    - -3
+    - 0
+    - 3
+    JumpForce: 7
+  dataConfig:
+    JsonFilePath: /gamedata.json
+    PlayerAssetName: Player
+    Coin1AssetName: Coin1
+    Coin2AssetName: Coin2
+    Ground1AssetName: GroundPrefab1
+    Ground2AssetName: GroundPrefab2
+    Ground3AssetName: GroundPrefab3
+    Obstacle1AssetName: Obstacle1
+    Obstacle2AssetName: Obstacle2
+  cameraConfig:
+    CameraShakeIntensity: 2
+    CameraShakeTime: 0.3
+    CameraBoostFOV: 80
+    CameraBoostOffsetY: 3
+    CameraChangeViewTime: 0.05

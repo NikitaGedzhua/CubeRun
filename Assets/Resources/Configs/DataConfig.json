@@ -1,0 +1,11 @@
+{
+  "JsonFilePath":"/gamedata.json",
+  "PlayerAssetName":"Player",
+  "Coin1AssetName":"Coin1",
+  "Coin2AssetName":"Coin2",
+  "Ground1AssetName":"GroundPrefab1",
+  "Ground2AssetName":"GroundPrefab2",
+  "Ground3AssetName":"GroundPrefab3",
+  "Obstacle1AssetName":"Obstacle1",
+  "Obstacle2AssetName":"Obstacle2"
+}

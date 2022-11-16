@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962267156750",
+    "firebase_url": "https://unity-bootcamp-gedjua.firebaseio.com",
+    "project_id": "unity-bootcamp-gedjua",
+    "storage_bucket": "unity-bootcamp-gedjua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962267156750:android:0f9ec4849733f0a6c7c75f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962267156750-u2cuc7b1fncvuifl7tbgj028trln8hlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAev5C9K0FhWmLiyok4mmV8ZUVyC1qyxEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962267156750-u2cuc7b1fncvuifl7tbgj028trln8hlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+{
+  "CameraShakeIntensity":2.0,
+  "CameraShakeTime":0.3,
+  "CameraBoostFOV":80,
+  "CameraBoostOffsetY":3,
+  "CameraChangeViewTime":0.05
+}

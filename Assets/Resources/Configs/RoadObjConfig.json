@@ -1,0 +1,18 @@
+{
+  "StartTilesCount":6,
+  "TilesSpawnPos":0.0,
+  "DistanceBetweenTiles":50.0,
+  "TilesDeadZone":-50.0,
+  "StartObstaclesCount":7,
+  "ObstaclesSpawnPos":20.0,
+  "DistanceBetweenObstacles":20.0,
+  "ObstaclesDeadZone":-10.0,
+  "_leftPosLimitObst":-3.0,
+  "_rightPosLimitObst":3.0,
+  "StartCoinsCount":6,
+  "CoinsSpawnPos":10.0,
+  "DistanceBetweenCoins":10.0,
+  "CoinsDeadZone":-5.0,
+  "_leftPosLimitCoin":-3.0,
+  "_rightPosLimitCoin":3.0
+}
